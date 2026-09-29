@@ -2,7 +2,9 @@
 
 Projeto desenvolvido para prática de Quality Assurance e automação de testes, utilizando Playwright com TypeScript para testes E2E de uma aplicação Web.
 
-O projeto faz parte da minha formação prática em automação de testes e demonstra a criação, organização e execução de cenários automatizados.
+A aplicação utilizada neste projeto foi apresentada originalmente no curso de Playwright do Fernando Papito e é utilizada aqui como ambiente para prática de QA e automação de testes.
+
+A parte de QA deste repositório inclui a configuração do Playwright, criação dos testes automatizados e adaptações necessárias para executar o projeto no ambiente de desenvolvimento.
 
 ## Tecnologias
 
@@ -204,11 +206,21 @@ Este projeto faz parte da minha preparação profissional para atuar como QA Jú
 
 ## Projeto de estudo e portfólio
 
-O projeto foi desenvolvido durante meus estudos de Quality Assurance e automação de testes, utilizando uma aplicação Web como ambiente para criação e execução de cenários automatizados.
+O projeto foi desenvolvido durante meus estudos de Quality Assurance e automação de testes.
 
-Além da aplicação utilizada nos estudos, foram realizadas as configurações e adaptações necessárias para executar o projeto no ambiente atual de desenvolvimento, utilizando Node.js 22 e Yarn.
+A aplicação utilizada como base pertence ao projeto apresentado no curso de Playwright do Fernando Papito.
 
-## Autor
+A partir dessa aplicação, foram desenvolvidos os testes automatizados e realizadas as configurações necessárias para utilizar o Playwright como ferramenta de automação de testes.
+
+Também foram realizadas adaptações necessárias para executar o projeto no ambiente atual de desenvolvimento, utilizando Node.js 22 e Yarn.
+
+## Autor da aplicação
+
+Fernando Papito
+
+A aplicação utilizada como base deste projeto foi apresentada originalmente em seu curso de Playwright.
+
+## QA e automação
 
 Arthur Henrique Santos de Oliveira
 
